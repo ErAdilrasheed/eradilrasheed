@@ -48,15 +48,15 @@
  
 ## My GitHub Stats 📈
 [![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=eradilrasheed&theme=nightowl&show_icons=true)](https://github.com/eradilrasheed/github-readme-stats)
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eradilrasheed&theme=nightowl" alt="adil" />
+</p>
+
+---
 ### Top Usage Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eradilrasheed&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
-
----
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/eradilrasheed"><img alt="Check out Adil's profile on stardev.io" src="https://stardev.io/developers/eradilrasheed/badge/languages/locality.svg" /></a>
 
 ---
 
