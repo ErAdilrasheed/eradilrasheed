@@ -14,7 +14,7 @@
 - 📰 Reading tech documentation whenever possible.<br>
 - 🥅 2024 Goals: Learn Cloud on AWS and Azure.<br>
 - 🤝 I’m looking for help to get a new job.<br>
-- 👨‍💻 All of my projects are available at [https://adilrasheed.me]<br>
+- 👨‍💻 All of my projects are available at https://adilrasheed.me<br>
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 ---
