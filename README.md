@@ -62,7 +62,6 @@
 
 ### Top Repositories
 
-
 <a href="https://github.com/ErAdilrasheed/Developer-Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eradilrasheed&repo=developer-portfolio&theme=nightowl" />
 </a>
