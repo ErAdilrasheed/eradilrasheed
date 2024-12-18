@@ -50,7 +50,7 @@
 [![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=eradilrasheed&theme=nightowl&show_icons=true)](https://github.com/eradilrasheed/github-readme-stats)
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eradilrasheed&theme=nightowl" alt="adil" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eradilrasheed&theme=nightowl" alt="adilrasheed" />
 </p>
 
 ---
