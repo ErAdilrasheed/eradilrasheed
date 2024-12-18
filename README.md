@@ -38,6 +38,7 @@
 <img alt="NodeJs" src="https://img.shields.io/badge/node.js-%23f2ca61.svg?style=for-the-badge&logo=node.js&logoColor=%FFFFFF"/>
  <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23ffd2ce.svg?style=for-the-badge&logo=express&logoColor=140200"/>
  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%23ffd2ce.svg?style=for-the-badge&logo=mongodb&logoColor=140200" />
+ <img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <!-- <img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/> -->
 <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/> 
