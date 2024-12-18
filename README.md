@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammad+Adil+Rasheed....;Nice+to+meet+you!&center=true&size=18">
   </a>
 </h1>
-<h3 align="center">🎓 I am a Postgradute Student, pursuing Master of Computer Application.</h3>
+<h3 align="center">🎓 I am a Postgradute Student, completed Master of Computer Application.</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dr5kn8993/image/upload/v1711788728/My%20Images/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eradilrasheed&label=Profile%20views&color=0e75b6&style=flat" alt="eradilrasheed" /> </p>
