@@ -30,7 +30,6 @@
 ## Tech Stack 🥞
 <p align="center">
   <img alt="Core Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%23ffd2ce.svg?style=for-the-badge&logo=mongodb&logoColor=140200" />
@@ -66,6 +65,6 @@
 <a href="https://github.com/ErAdilrasheed/Developer-Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eradilrasheed&repo=developer-portfolio&theme=nightowl" />
 </a>
-<a href="https://github.com/ErAdilrasheed/FiverrIndia">
+<a href="https://github.com/ErAdilrasheed/Medico">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eradilrasheed&repo=Express-Postgres-blog&theme=nightowl" />
 </a>
