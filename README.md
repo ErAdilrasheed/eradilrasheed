@@ -12,7 +12,7 @@
 - 🌱 Trying to become an expert in Fullstack development ❤ <br>
 - 💻 I love exploring new tech stacks and building cool stuff.<br>
 - 📰 Reading tech documentation whenever possible.<br>
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.<br>
+- 🥅 2025 Goals: Learn Cloud on AWS and Azure.<br>
 - 🤝 I’m looking for help to get a new job.<br>
 - 👨‍💻 All of my projects are available here [https://adilrasheed.tech]<br>
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
