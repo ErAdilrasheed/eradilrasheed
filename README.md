@@ -47,10 +47,10 @@
 </p>
  
 ## My GitHub Stats 📈
-[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=eradilrasheed&theme=nightowl&show_icons=true)]
+[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=eradilrasheed&theme=nightowl&show_icons=true)
 
 <p>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=eradilrasheed&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=eradilrasheed&theme=dark)](https://git.io/streak-stats)]
 </p>
 
 ---
