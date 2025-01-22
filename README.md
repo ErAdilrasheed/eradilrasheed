@@ -46,6 +46,8 @@
   <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/> 
 </p>
 
+---
+
 ### My Github Stats:
 
 <p>
