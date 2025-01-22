@@ -60,7 +60,7 @@
 
 ### Top Usage Languages:
 
-<img align="center" width = "450px" font-weight = "900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eradilrasheed&layout=compact&theme=algolia&hide_border=true&&langs_count=20" />
+<img align="center" width = "400px" height = "300px" color="green" font-weight = "bold" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eradilrasheed&layout=compact&theme=algolia&hide_border=true&&langs_count=20" />
 
 ---
 
