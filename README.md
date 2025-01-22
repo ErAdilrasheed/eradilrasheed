@@ -52,8 +52,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eradilrasheed&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eradilrasheed&theme=algolia" alt="daily streak" />
+
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 </p>
 
 ---
