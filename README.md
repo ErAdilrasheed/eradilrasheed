@@ -52,7 +52,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eradilrasheed&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Adil's GitHub status" />
 
+</p>
 
+<p>
  [![GitHub Streak](https://streak-stats.demolab.com?user=ErAdilrasheed&theme=merko)](https://git.io/streak-stats)
 
  </p>
